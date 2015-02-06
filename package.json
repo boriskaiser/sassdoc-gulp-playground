@@ -1,0 +1,32 @@
+{
+  "name": "sassdoc-gulp-playground",
+  "version": "1.0.0",
+  "description": "Playground for SassDoc with Gulp",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://boriskaiser@github.com/boriskaiser/sassdoc-gulp-playground.git"
+  },
+  "author": {
+    "name": "Boris Kaiser",
+    "email": "mail@boriskaiser.com",
+    "url": "http://boriskaiser.com"
+  },
+  "keywords": [
+    "sassdoc",
+    "sass",
+    "scss",
+    "gulp",
+    "playground"
+  ],
+  "devDependencies": {
+    "browser-sync": "^2.0.0-rc8",
+    "del": "^1.1.1",
+    "gulp": "^3.8.10",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^0.6.6",
+    "gulp-sass": "^1.3.2",
+    "run-sequence": "^1.0.2",
+    "sassdoc": "^2.0.3"
+  }
+}

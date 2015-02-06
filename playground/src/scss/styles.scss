@@ -1,0 +1,20 @@
+////
+/// @group playground
+////
+
+
+/// This is a test mixin aiming at testing:
+/// - `@content`
+/// - `@param`
+/// - `@output`
+/// - `@throw`
+///
+/// @content Content is parsed and whatever.
+///
+/// @param {Number} $number [42] - Number
+/// @param {Arglist} $extra-arguments - Extra arguments
+///
+/// @output Nothing
+///
+/// @throw This is an error.
+@mixin mixin-specific-test {}
