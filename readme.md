@@ -12,7 +12,7 @@ SassDoc is to Sass what JSDoc is to JavaScript: a documentation system to build 
 - fully themable;
 
 ## Getting started
-```shell
+```bash
 $ git clone https://github.com/boriskaiser/sassdoc-gulp-playground.git
 $ cd sassdoc-gulp-playground
 $ npm install
