@@ -1,4 +1,4 @@
-# Playground for [SassDoc](http://sassdoc.com) with [Gulp](http://gulpjs.com)
+# Playground for [SassDoc 2](http://sassdoc.com) with [Gulp](http://gulpjs.com)
 
 <p align="center">
   <img width="357" height="530" src="https://raw.githubusercontent.com/boriskaiser/sassdoc-gulp-playground/master/assets/sassdoc-gulp-playground-logo.png">
